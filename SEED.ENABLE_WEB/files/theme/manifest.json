@@ -1,0 +1,50 @@
+{
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"enableEditorJS": true,
+	"description": "With bold fonts, big colors and impressive images, Paris gives your website a strong visual impression that encourages exploration. The theme's headline fade provides additional transition effects that add even more depth to the sharply designed page types.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"animation",
+		"full-width-header",
+		"navigation-fixed",
+		"navigation-top",
+		"color-palettes"
+	],
+	"variations": [
+		{
+			"value": "yellow",
+			"sample": "#ffc800",
+			"is-dark": false
+		},
+		{
+			"value": "blue",
+			"sample": "#1cadeb",
+			"is-dark": false
+		},
+		{
+			"value": "green",
+			"sample": "#45b33d",
+			"is-dark": false
+		},
+		{
+			"value": "orange",
+			"sample": "#ff8345",
+			"is-dark": false
+		},
+		{
+			"value": "red",
+			"sample": "#ed393c",
+			"is-dark": false
+		}
+	],
+	"page-types": {
+		"landing": {
+			"header-section": {
+				"resizable": false
+			}
+		}
+	}
+}
