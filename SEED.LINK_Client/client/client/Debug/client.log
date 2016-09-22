@@ -1,0 +1,4 @@
+﻿  login.cpp
+  login.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  client.vcxproj -> D:\SEED.Initialize\SEED.LINK_Client\client\Debug\client.exe
+  client.vcxproj -> D:\SEED.Initialize\SEED.LINK_Client\client\Debug\client.pdb (Partial PDB)

@@ -1,0 +1,2 @@
+Main Gray-ish Black - 31, 30 , 30
+Yellow - 255, 200 ,0
